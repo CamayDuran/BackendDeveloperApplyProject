@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.Form1.resources
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.Form2.resources
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.Form3.resources
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.Form4.resources
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\bin\Debug\BackendDeveloperApplyProject.exe.config
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\bin\Debug\BackendDeveloperApplyProject.exe
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\bin\Debug\BackendDeveloperApplyProject.pdb
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.exe
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.pdb
+C:\Users\Lenovo\source\repos\BackendDeveloperApplyProject\obj\Debug\BackendDeveloperApplyProject.Form5.resources
